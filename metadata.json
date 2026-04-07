@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Aura: Inclusive In-Cab AI",
+  "description": "Aura is an AI-powered in-cab companion designed for specially-abled passengers, providing real-time vision assistance, multi-role monitoring, and advanced accessibility features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
